@@ -1,5 +1,8 @@
 function suma (sum1,sum2) {
-  //Escribe tu codigo aqui
+  var sum1=2;
+  var sum2=5;
+  var suma=sum1+sum2;
+  
   
 }
 
